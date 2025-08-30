@@ -98,7 +98,7 @@
   <a href="https://cooldude0786.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
-  <a href="mailto:khizarshaikh.work@gmail.com" target="_blank">
+  <a href="mailto:khizarshaikh.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/khizarshaikh-sde" target="_blank">
